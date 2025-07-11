@@ -9,7 +9,7 @@
 
 - 👩‍💻 Google Certified Data Analyst 
 - 💡 I love to find new approaches for solving problems
-- 🌱 Currently exploring Machine Learning and advanced SQL concepts
+- 🌱 Actively exploring Machine Learning and advanced SQL concepts to deepen my analytical capabilities.
 - ✨ Fun fact: I enjoy organizing my workspace and believe a clean mind starts with a clean desk :)
 
 ---
