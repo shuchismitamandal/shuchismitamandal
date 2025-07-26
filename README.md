@@ -1,25 +1,22 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Welcome GIF">
-</p>
-
-<h1 align="center">Hi 👋, I'm Shuchismita Mandal</h1>
+<h1 align="left">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi there, I'm Shuchismita!
+</h1>
 
 
-### 😊 About Me:
 
-- 👩‍💻 Google Certified Data Analyst 
+- 👩‍💻 A Google Certified Data Analyst 
 - 🌱 Currently sharpening my skills in Advanced SQL and Microsoft Azure for cloud-based analytics
 - 💡 I thrive on solving real-world problems with creative, data-driven solutions
 - ✨ Fun fact: I love organizing my workspace — a tidy desk sets the stage for clear thinking!
 
----
 
-### 🌐 Social Links:
+
+## 🌐 Social Links:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shuchismitamandal/)
 
----
 
-### 💻 Tech Stack:
+
+## 💻 Tech Stack:
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
@@ -30,9 +27,13 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft%20excel&logoColor=white)
 
+## 📊 GitHub Stats
+![Shuchismita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShuchismitaMandal&show_icons=true&theme=radical&hide=prs,issues&count_private=true)
 
-![Shuchismita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShuchismitaMandal&show_icons=true&theme=radical&hide=prs&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShuchismitaMandal&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=ShuchismitaMandal&theme=radical&hide_border=true&dates=FAD000)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShuchismitaMandal&layout=compact&theme=radical)
+
 
 ---
 
