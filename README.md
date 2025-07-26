@@ -8,9 +8,9 @@
 ### 😊 About Me:
 
 - 👩‍💻 Google Certified Data Analyst 
-- 💡 I love to find new approaches for solving problems
-- 🌱 Actively exploring Machine Learning and advanced SQL concepts to deepen my analytical capabilities.
-- ✨ Fun fact: I enjoy organizing my workspace and believe a clean mind starts with a clean desk :)
+- 🌱 Currently sharpening my skills in Advanced SQL and Microsoft Azure for cloud-based analytics
+- 💡 I thrive on solving real-world problems with creative, data-driven solutions
+- ✨ Fun fact: I love organizing my workspace — a tidy desk sets the stage for clear thinking!
 
 ---
 
@@ -31,17 +31,11 @@
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft%20excel&logoColor=white)
 
 
-<!--
-**shuchismitamandal/shuchismitamandal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Shuchismita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShuchismitaMandal&show_icons=true&theme=radical&hide=prs&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShuchismitaMandal&layout=compact&theme=radical)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Let’s Connect  
+Feel free to check out my projects and connect — always open to learning and collaboration!
+
