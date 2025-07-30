@@ -30,7 +30,7 @@
 ## 📊 GitHub Stats
 ![Shuchismita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShuchismitaMandal&show_icons=true&theme=radical&hide=prs,issues&count_private=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ShuchismitaMandal&theme=radical&hide_border=true&dates=FAD000)
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShuchismitaMandal&layout=compact&theme=radical)
 
