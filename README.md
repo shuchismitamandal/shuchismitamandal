@@ -4,7 +4,7 @@
 
 
 
-- 👩‍💻 BSc Data Science graduate 
+- 🎓 BSc Data Science graduate 
 - 🌱 Currently sharpening my skills in Advanced SQL and Microsoft Azure for cloud-based analytics
 - 💡 I thrive on solving real-world problems with creative, data-driven solutions
 - ✨ Fun fact: I love organizing my workspace — a tidy desk sets the stage for clear thinking!
@@ -31,10 +31,6 @@
 ![Shuchismita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShuchismitaMandal&show_icons=true&theme=radical&hide=prs,issues&count_private=true&cache_seconds=60)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShuchismitaMandal&layout=compact&theme=radical&cache_seconds=60)
-
-
-
-
 
 
 ---
