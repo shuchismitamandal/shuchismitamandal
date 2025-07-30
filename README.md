@@ -28,11 +28,13 @@
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft%20excel&logoColor=white)
 
 ## 📊 GitHub Stats
-![Shuchismita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShuchismitaMandal&show_icons=true&theme=radical&hide=prs,issues&count_private=true)
+![Shuchismita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShuchismitaMandal&show_icons=true&theme=radical&hide=prs,issues&count_private=true&cache_seconds=60)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShuchismitaMandal&layout=compact&theme=radical&cache_seconds=60)
 
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShuchismitaMandal&layout=compact&theme=radical)
+
 
 
 ---
