@@ -5,7 +5,7 @@
 
 
 - 🎓 BSc Data Science graduate 
-- 🌱 Currently sharpening my skills in Advanced SQL and Microsoft Azure for cloud-based analytics
+- 🌱 Currently sharpening my skills in \Microsoft Azure for cloud-based analytics
 - 💡 I thrive on solving real-world problems with creative, data-driven solutions
 - ✨ Fun fact: I love organizing my workspace — a tidy desk sets the stage for clear thinking!
 
