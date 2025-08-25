@@ -31,8 +31,7 @@
 ![Shuchismita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShuchismitaMandal&show_icons=true&theme=radical&hide=prs,issues&count_private=true&cache_seconds=60)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShuchismitaMandal&layout=compact&theme=radical&cache_seconds=60)
-![Google Data Analytics](https://img.shields.io/badge/Google-Data%20Analytics-blue?logo=google)
-![SQL](https://img.shields.io/badge/SQL-Intermediate-green)
+
 
 
 
